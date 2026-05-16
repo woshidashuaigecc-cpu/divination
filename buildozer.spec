@@ -80,7 +80,7 @@ android.minapi = 21
 #android.sdk = 20
 
 # (str) Android NDK version to use
-#android.ndk = 19b
+android.ndk = 25b
 
 # (int) Android NDK API to use. This is the minimum API your APK will support.
 #android.ndk_api = 21
