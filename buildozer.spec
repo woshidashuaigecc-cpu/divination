@@ -10,6 +10,7 @@ package.name = divination
 package.domain = org.example
 # (str) Application versioning
 version = 1.0
+android.accept_sdk_license = True
 # (str) Source code where the main.py live
 source.dir = .
 
@@ -112,7 +113,7 @@ android.minapi = 21
 #android.copy_libs = 1
 
 # (str) The Android arch to build for, choices: armeabi-v7a, arm64-v8a, x86, x86_64
-android.arch = arm64-v8a
+android.archs = arm64-v8a
 
 #
 # Python for android (p4a) specific
