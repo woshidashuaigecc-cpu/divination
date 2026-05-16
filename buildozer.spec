@@ -8,7 +8,8 @@ package.name = divination
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.example
-
+# (str) Application versioning
+version = 1.0
 # (str) Source code where the main.py live
 source.dir = .
 
